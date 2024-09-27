@@ -1,2 +1,2 @@
 # my first repository
-# adicionando umka descrição daora 
+# adicionando uma descrição daora 
